@@ -1,0 +1,28 @@
+# 船厂数据智能处理系统 - 依赖包列表
+# Shipyard Data Intelligence System - Requirements
+
+# 数据库连接
+mysql-connector-python>=9.0.0
+
+# Excel处理
+openpyxl>=3.1.0
+et-xmlfile>=2.0.0
+
+# Word文档处理
+python-docx>=1.2.0
+lxml>=5.0.0
+
+# PowerPoint处理
+python-pptx>=0.6.21
+
+# PDF处理
+PyPDF2>=3.0.0
+
+# AI模型API
+dashscope>=1.19.0
+
+# 数据处理
+pandas>=2.0.0
+
+# 通用工具
+typing_extensions>=4.9.0

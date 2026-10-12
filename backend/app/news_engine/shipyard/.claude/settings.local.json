@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c:*)",
+      "Bash(python analyze_template.py:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(dir:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(iconv:*)",
+      "Bash(del schema_temp.json read_schema.py)"
+    ]
+  }
+}
